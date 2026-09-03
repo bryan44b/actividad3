@@ -38,6 +38,11 @@ clase tv:
 <img width="833" height="898" alt="image" src="https://github.com/user-attachments/assets/2341d29a-2ec5-4e0a-9937-cbe0cab1087e" />
 <img width="833" height="898" alt="image" src="https://github.com/user-attachments/assets/090c1d9c-a5b7-4b73-a8f4-97418152bd7f" />
 
+ejecución:
+
+<img width="1201" height="381" alt="image" src="https://github.com/user-attachments/assets/d45106b8-c114-46d9-a431-029211ea1270" />
+
+
 Puntos clave de la actividad
 Encapsulamiento y Modelado Realista:
 Representar el estado (estado, canal, volumen) y el comportamiento (encender, upcanal, upvolumen) de forma separada permite entender cómo se estructuran las entidades en software. El uso de métodos set, up y down demuestra una manipulación controlada de los atributos, evitando modificaciones desordenadas.
