@@ -9,6 +9,7 @@ Clase main:
 <img width="521" height="291" alt="image" src="https://github.com/user-attachments/assets/3bb26781-4343-42cc-975c-ffc6c5e65cbc" />
 
 clase tv:
+
 <img width="833" height="898" alt="image" src="https://github.com/user-attachments/assets/2341d29a-2ec5-4e0a-9937-cbe0cab1087e" />
 <img width="833" height="898" alt="image" src="https://github.com/user-attachments/assets/090c1d9c-a5b7-4b73-a8f4-97418152bd7f" />
 
