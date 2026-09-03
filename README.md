@@ -30,7 +30,9 @@ upvolumen() y downvolumen(): ajustan la intensidad del sonido incrementando o de
 En la clase main creé la instancia del objeto tv para poner a prueba toda la lógica programada. Realicé una secuencia de prueba simulando el uso cotidiano de un televisor: encendí el aparato, ingresé un canal directo con setcanal, utilicé upcanal y downcanal para probar la navegación secuencial, y ajusté el audio con upvolumen y downvolumen.
 
 Finalmente, mandé a llamar las instrucciones necesarias para imprimir en la consola la información del objeto. De esta forma pude comprobar en pantalla que los métodos funcionaban correctamente y que los atributos de canal, volumen y estado cambiaban según lo esperado tras cada instrucción.
+
 Clase main:
+
 <img width="521" height="291" alt="image" src="https://github.com/user-attachments/assets/3bb26781-4343-42cc-975c-ffc6c5e65cbc" />
 
 clase tv:
